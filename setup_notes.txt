@@ -1,0 +1,26 @@
+https://www.npmjs.com/package/simple-peer
+
+npm init -y
+npm install simple-peer --save
+
+
+python -m http.server
+
+https://scotch.io/tutorials/getting-started-with-browserify
+npm install --global browserify
+
+browserify --version
+ls
+browserify main.js -o bundle.js
+
+
+https://www.youtube.com/watch?v=ieBtXwHvoNk
+nb: uses budo? as dev assist environment
+
+
+https://www.npmjs.com/package/getusermedia
+npm install getusermedia --save
+
+
+https://www.npmjs.com/package/budo
+npm install budo -g
