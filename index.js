@@ -30,6 +30,8 @@ console.log("start index.js")
       peer.send(yourMessage)
       console.log("sending yourMessage:", yourMessage)
       document.getElementById('messages').textContent += "me:" + yourMessage + '\n'
+      document.getElementById('yourMessage').textContent = ""
+      console.log("document.getElementById('yourMessage').textContent = ", document.getElementById('yourMessage').textContent)
     })
 
 
